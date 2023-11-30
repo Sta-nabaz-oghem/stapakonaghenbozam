@@ -4,6 +4,8 @@ zulfiqar
 46HCRAAYTRIDDC0541AAE630G72191410222222~TRT=
 S T new
 46HCRAAYTRID224D16558B25G19191410266662~TRT=
+tariq 
+46HCRAA0732154252191410299992~TRT=
 B admin
 46HCRAAYTRID0F35F8D233A7G19191410236632~TRT=
 ashu
@@ -248,19 +250,6 @@ arman admin
 
 
 {====================================}
-{31-OCT-2023}
---------------15-day-----------------
--------------1-month-----------------
-46HCRAAYTRIDBEE3AB4652D1G68141410223322~TRT=~TRT=
-46HCRAAYTRID3E127485A8F9G0131019191410298892~TRT=
-46HCRAA2IVB4SXXF527ABA53628742FREP09141410289982~TRT
-46HCRAA+FREP25191410263362~TRT=
-46HCRAAYTRIDF43F5360392FG19191410214412~TRT=
-{====================================}
-
-
-
-{====================================}
 { 1-NOV-2023 }
 ------------------15-day--------------
 ------------------1-month-------------
@@ -485,18 +474,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDD4E3CF7A73
 {====================================}
 ( 15-NOV-2023 )
 {------------15-DAY------------------}
-46HCRAA+FREP09141410237732~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID16706ED1C3A6G6690019191410242242~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID7C725D9F8D9EG19191410348843~TRT=
-46HCRAA+FREP75191410299992~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID1FF167B213ABG7800019191410228822~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDAAF4F6710CC4G19191410146641~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDB48E7833B30EG19191410244442~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA61141410183381~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID6637CE024221G0800019191410250052~TRT=
-46HCRAA+FREP75191410354453~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDD666CCB03FEBG191914100055~TRT=
-
 {------------1-MONTH-----------------}
 
 
@@ -884,4 +861,30 @@ Your Key: 46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510227722~TRT=
 
 
 {====================================}
+
+
+
+
+
+{====================================}
+( 30-NOV-2023 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+
+{====================================}
+
+
+
+
+
+
+
 
