@@ -191,20 +191,6 @@ Your Key: 46HCRAA61141410772277~TRT=
 
 
 
-{====================================}
-( 9-NOV-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAA+091941007557~TRT=
-46HCRAAYTRIDDD35F9D9C126G6131019191410215512~TRT=
-46HCRAAYTRID84717E3355G72191410233332~TRT=
-46HCRAAYTRID611B5CD68G6814141003993~TRT=
-46HCRAA+FREP289410235532~TRT=
-46HCRAA81124A2BE7ABGFREP75191410293392~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID2DA41D57E78DG19191410215512~TRT=
-{====================================}
-
-
 
 
 {====================================}
@@ -440,16 +426,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID4C6B9815F3
 {====================================}
 ( 25-NOV-2023 )
 {------------15-DAY------------------}
-: 46HCRAA+14141410200002~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDFDBBD7557B24G4151019191410203302~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID3A3C89BEA95DG68141410230032~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA3C3F549D678AGIKGQ0124510316613~TRT=
-46HCRAA+72191410297792~TRT=
-46HCRAAYTRID281498C981BCG68141410228822~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDD35F9D9C126G6131019191410239932~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDC0541AAE630G72191410235532~TRT=
-46HCRAA31235822FREP7229410562265~TRT=
 {------------1-MONTH-----------------} 46HCRAAYTRID4C6B9815F3E2G19191410230032~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID8955C6018C53G19191410237732~TRT=
 46HCRAA+FREP75191410270072~TRT=
@@ -843,6 +819,28 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA759072726814141
 46HCRAA+0919410228822~TRT=
 46HCRAA+19191410266662~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID333528D92DD5G68141410167761~TRT=
+
+{====================================}
+
+
+
+
+
+
+
+
+{====================================}
+( 10-DEC-2023 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
 
 {====================================}
 
