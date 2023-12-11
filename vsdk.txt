@@ -198,24 +198,6 @@ Your Key: 46HCRAA61141410772277~TRT=
 
 
 
-
-
-{====================================}
-( 11-NOV-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAAYTRIDF487E11DBB89G68141410238832~TRT=
-46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510246642~TRT=
-46HCRAAYTRID44BD1201CG6814141004884~TRT=
-46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510252252~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID3E127485A8F9G0131019191410217712~TRT=
-46HCRAA920DA9C86D24GFREP68141410299992~TRT=
-{====================================}
-
-
-
-
-
 {====================================}
 ( 12-NOV-2023 )
 {------------15-DAY------------------}
@@ -437,14 +419,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID1698A56332
 {====================================}
 ( 26-NOV-2023 )
 {------------15-DAY------------------}
-46HCRAAYTRIDE9D521E42399G19191410348843~TRT=shah je
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID46007F737893G68141410235532~TRT=
-46HCRAAYTRID938E79FDAAC8G19191410207702~TRT=
-46HCRAA94BA0124510204402~TRT=
-46HCRAAYTRIDD59BB0646G68141410247742~TRT=saif
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA61141410226622~TRT=
-46HCRAA+7119410169961~TRT=
-46HCRAAYTRID66CE069B2CA7G19191410213312~TRT=
 {------------1-MONTH-----------------}
 46HCRAA0404885268141410386683~TRT=
 46HCRAAYTRID55289CB5F352G19191410251152~TRT=arman
@@ -831,11 +805,33 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID333528D92D
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410214412~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA4535907231191410512215~TRT=
 46HCRAAYTRIDB48E7833B30EG19191410208802~TRT=
+
 {------------1-MONTH-----------------}
 46HCRAA81124A2BE7ABGFREP75191410293392~TRT=
 46HCRAA+14141410187781~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDD35F9D9C126G6131019191410215512~TRT=
 
 {====================================}
+
+
+
+
+
+
+{====================================}
+( 11-DEC-2023 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+
+{====================================}
+
 
 
