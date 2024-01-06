@@ -196,21 +196,6 @@ Your Key: 46HCRAA+FREP25191410279972~TRT=asik new
 
 
 
-{====================================}
-( 7-DEC-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAAYTRID8955C6018C53G19191410249942~TRT=
-46HCRAA+14141410335533~TRT
-46HCRAAYTRID2DA41D57E78DG19191410213312~TRT=
-46HCRAA+14141410335533~TRT
-46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510243342~TRT=
-46HCRAAYTRID997E3CCFA340G19191410237732~TRT=
-46HCRAA505C0F51685CGFREP09141410335533~TRT=
-46HCRAA784BA+99141410140041~TRT=
-{====================================}
-
-
 
 
 {====================================}
@@ -417,17 +402,7 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID611C806AC6
 
 {====================================}
 ( 22-DEC-2023 )
-{------------15-DAY------------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410259952~TRT=
-46HCRAA277528227714410253352~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510247742~TRT=eror hasnain
-46HCRAA438BA6509C91F8516G921DIORDNA3324510111111~TRT=
- 46HCRAA+FREP01191410260062~TRT= eror
-46HCRAA+FREP09141410380083~TRT=
-Your Key: 46HCRAAYTRIDCEE96E107160G68141410238832~TRT=
-46HCRAA+14141410215512~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410219912~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA713173227714410237732~TRT=
+{------------15-DAY------------------} 
 {------------1-MONTH-----------------}
 Your Key:
 46HCRAAYTRIDDD35F9D9C126G6131019191410212212~TRT=
@@ -775,6 +750,24 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID8C2A31802G
 46HCRAA+FREP25191410285582~TRT=
 46HCRAA713173227714410622226~TRT=
 46HCRAA4432024223191410447744~TRT=
+{===================================}
+
+
+
+
+{====================================}
+( 6-Jan-2024 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+
 {===================================}
 
 
