@@ -215,24 +215,6 @@ Your Key: 46HCRAA+FREP25191410279972~TRT=asik new
 
 
 
-.{====================================}
-( 9-DEC-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAA+0919410228822~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDB48E7833B30EG19191410211112~TRT=
-46HCRAA+19191410266662~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID333528D92DD5G68141410167761~TRT=
-
-{====================================}
-
-
-
-
-
-
-
-
 {====================================}
 ( 10-DEC-2023 )
 {------------15-DAY------------------}
@@ -437,15 +419,6 @@ Your Key: 46HCRAA+FREP08141410287782~TRT=
 {====================================}
 ( 24-DEC-2023 )
 {------------15-DAY------------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA06BA3324510186681~TRT=
-46HCRAAYTRID7BDD007FD499G19191410214412~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDC2FCAE91E48BG68141410243342~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDFDBBD7557B24G4151019191410224422~TRT=
-46HCRAA219448917714410235532~TRT=
-46HCRAAYTRIDDC0541AAE630G72191410230032~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAA6B113C737A4GFREP09141410306603~TRT=
-46HCRAA+324410131131~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA7590727268141410347743~TRT=
 {------------1-MONTH-----------------}
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDE9D521E42399G19191410229922~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDA1BBCF1470A8G72191410226622~TRT=
@@ -795,5 +768,24 @@ Your Key: 46HCRAAYTRID6C110A4D8CFFG19191410264462~TRT=
 46HCRAAYTRID7BDD007FD499G1919141009559~TRT=
 {===================================}
 
+
+
+
+
+
+{====================================}
+( 8-Jan-2024 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+
+{===================================}
 
 
