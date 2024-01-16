@@ -231,22 +231,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID2401EB7D28
 
 
 {====================================}
-( 17-DEC-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAAYTRIDC1DAC620037AG19191410125521~TRT=
-
-
-{===================================}
-
-
-
-
-
-
-
-
-{====================================}
 ( 18-DEC-2023 )
 {------------15-DAY------------------}
 {------------1-MONTH-----------------}
@@ -436,17 +420,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDB97ACA8E7G
 {====================================}
 ( 1-Jan-2024 )
 {------------15-DAY------------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID5230CB7806A1GFREP75191410237732~TRT=
-46HCRAA+FREP75191410280082~TRT=
-46HCRAAYTRID4BFCEA5D5G72191410238832~TRT=
-46HCRAA+FREP6819410288882~TRT=
-46HCRAAYTRID480BBBFD7ABCG68141410221122~TRT=sohailo
-46HCRAA+FREP75191410390093~TRT=
-46HCRAA+39141410238832~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID46007F737893G68141410233332~TRT=
-46HCRAAYTRID611C806AC62CG3290068141410229922~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAC9729E278D8FGFREP6814141001441~TRT=
-46HCRAAYTRID88A341B7BC42G68141410217712~TRT=
 {------------1-MONTH-----------------}
 46HCRAAYTRIDF5D62438E374G5861068141410251152~TRT=
 46HCRAA01815501BA70ABBFD8D912G10000921DIORDNA77101510239932~TRT=
@@ -838,4 +811,24 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA065186526814141
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDC2FCAE91E48BG68141410179971~TRT=
 
 {===================================}
+
+
+
+{====================================}
+( 16-Jan-2024 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+{===================================}
+
+
+
+
 
