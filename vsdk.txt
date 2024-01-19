@@ -228,22 +228,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID2401EB7D28
 
 
 
-{====================================}
-( 20-DEC-2023 )
-{------------15-DAY------------------} 
-{------------1-MONTH-----------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID611C806AC62CG32900681414110399301~TRT=
-46HCRAA0651865268141410338833~TRT=
-46HCRAA301206227714410245542~TRT=
-46HCRAA4432024223191410266662~TRT=
-46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510229922~TRT=
-
-{===================================}
-
-
-
-
-
 
 
 
@@ -447,17 +431,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDF5F27DD2C
 {====================================}
 ( 5-Jan-2024 )
 {------------15-DAY------------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410249942~TRT=
-46HCRAAYTRID1F1B2E7EAF86G19191410245542~TRT=
-46HCRAAYTRIDAAF4F6710CC4G19191410245542~TRT=
-46HCRAA+FREP63191410229922~TRT=
-46HCRAAYTRIDAAF4F6710CC4G19191410245542~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID08F211362119G68141410239932~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAFE7509A30C2AGFREP09141410329923~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA3KWC4SXXF521ABA7423645288191410243342~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDC2FCAE91E48BG68141410332233~TRT=
-46HCRAA7408474268141410313313~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDB48E7833B30EG19191410320023~TRT=
 {------------1-MONTH-----------------}
 46HCRAA+72191410239932~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA85250201BAE64F36A5401DG90000831DIORDNA8751510289982~TRT=
@@ -808,6 +781,20 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDD38DCA0FE2
 {===================================}
 
 
+
+{====================================}
+( 19-Jan-2024 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+{===================================}
 
 
 
