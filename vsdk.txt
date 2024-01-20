@@ -236,18 +236,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID2401EB7D28
 
 
 
-
-{====================================}
-( 21-DEC-2023 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-46HCRAA629BAE1AFF44CF890G047066921DIORDNA0124510255552~TRT=
-
-
-
-{===================================}
-
-
 {====================================}
 ( 22-DEC-2023 )
 {------------15-DAY------------------} 
@@ -452,24 +440,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID8C2A31802G
 {====================================}
 ( 6-Jan-2024 )
 {------------15-DAY------------------}
-
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID2DA41D57E78DG19191410234432~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA9595139BAA7F09EE7FB1FG04000921DIORDNA63101510228822~TRT=waqar
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410219912~TRT=
-46HCRAAYTRID1F1B2E7EAF86G19191410245542~TRT=
-46HCRAA455BA690CC79AEF09G921DIORDNA3324510212212~TRT=
-46HCRAA+FREP71141410291192~TRT=
-46HCRAA+FREP71141410220022~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA340G19191410237732~TRT=
-46HCRAA+14141410237732~TRT=
-46HCRAA+7119410140041~TRT=
-46HCRAA+0919410238832~TRT=
-46HCRAA+7119410309903~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA5136CB0C4B10GFREP31191410278872~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID938E79FDAAC8G19191410206602~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDF87D572EG72191410226622~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDBEE3AB4652D1G68141410231132~TRT=
-46HCRAA+72191410235532~TRT=
 {------------1-MONTH-----------------}
 46HCRAA+FREP75191410286682~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDC2FCAE91E48BG68141410256652~TRT=
@@ -807,5 +777,23 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA2HWD6UXXF527ABA
 
 {===================================}
 
+
+
+
+
+
+{====================================}
+( 20-Jan-2024 )
+{------------15-DAY------------------}
+
+
+
+
+
+{------------1-MONTH-----------------}
+
+
+
+{===================================}
 
 
