@@ -702,8 +702,8 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID135FDDFG72
 {------------15-DAY------------------}
 46HCRAAYTRID7BDD007FD499G19191410219912~TRT=
 46HCRAAYTRID6C110A4D8CFFG19191410264462~TRT=
-46HCRAAYTRIDAAF4F6710CC4G19191410233332~TRT=
-{------------1-MONTH-----------------}
 
+{------------1-MONTH-----------------}
+46HCRAAYTRIDAAF4F6710CC4G19191410233332~TRT=
 
 {===================================}
