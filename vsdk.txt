@@ -81,8 +81,6 @@ shah g kuni
 46HCRAAYTRID1F1B2E7EAF86G2010019191410348843~TRT=
 afg hmza 2
 46HCRAA392724121114410205502~TRT=
-maher admin
-46HCRAA+7119410309903~TRT=
 xdm 
 46HCRAAYTRID997E3CCFA340G19191410253352~TRT=
 xdm
@@ -108,8 +106,6 @@ sa dia
 46HCRAA+FREP6029410228822~TRT=
 46HCRAA01815501BA70ABBFD8D912G10000921DIORDNA77101510246642~TRT=
 --------------------------------------
-mary permanent
-46HCRAA+324410131131~TRT=
 afg hmza
 46HCRAA0596617231191410404404~TRT=
 waji new per
@@ -186,18 +182,6 @@ mohsin personal
 
 
 
-
-
-
-
-
-{====================================}
-( 7-Feb-2024 )
-{------------15-DAY------------------}
-{------------1-MONTH-----------------}
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDD38DCA0FE211G68141410231132~TRT=
-
-{===================================}
 
 
 
@@ -340,12 +324,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID997E3CCFA3
 {====================================}
 ( 20-Feb-2024 )
 {------------15-DAY------------------}
-46HCRAAYTRID6504087EF4CDG68141410218812~TRT=
-46HCRAA+0919410210012~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDD35F9D9C126G6131019191410225522~TRT=
-46HCRAA+0919410225522~TRT=
-46HCRAA+FREP63191410236632~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDF87D572EG72191410215512~TRT=
 {------------1-MONTH-----------------}
 46HCRAAYTRID8C01438BF744G19191410205502~TRT=
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRIDDD35F9D9C126G6131019191410212212~TRT=
@@ -597,4 +575,17 @@ its me
 46HCRAA+FREP71141410578875~TRT=
 46HCRAA964653123514410224422~TRT=
 46HCRAA1IVI7SQSU079GBA7265273209141410213312~TRT=
+{===================================}
+
+
+
+{====================================}
+( 6-Mar-2024 )
+{------------15-DAY------------------}
+
+
+{------------1-MONTH-----------------}
+
+
+
 {===================================}
