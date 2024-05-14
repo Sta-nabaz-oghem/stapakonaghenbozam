@@ -306,10 +306,6 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID1698A56332
 {====================================}
 ( 29-apr-2024 )
 {------------15-DAY------------------}
-46HCRAA01815501BA70ABBFD8D912G10000921DIORDNA77101510204402~TRT=
-Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA98075901BA72FF6E08EAFCG70000831DIORDNA40151510277772~TRT=
-46HCRAA+RESU31141410265562~TRT=
-
 {------------1-MONTH-----------------}
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA3BXE6UXXF527ABA56709772FREP09141410477774~TRT=
 
@@ -415,6 +411,7 @@ Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAAYTRID3E127485A8
 Hello Ramzan Sir ! Please Approve My Token The Token is : 46HCRAA01815501BA70ABBFD8D912G10000921DIORDNA77101510237732~TRT=
 bangali barwa
 46HCRAA0349BDC786C2GFREP08141410283382~TRT=
+46HCRAA+FREP6819410290092~TRT=
 {------------1-MONTH-----------------}
 
 
