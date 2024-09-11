@@ -29,9 +29,6 @@ my s23 ultra mobile
 46HCRAAYTRIDB48E7833B30EG19191410481184~TRT=Nd 2
 #----------------------
 #-------------------------
-#---------------------------------#
-13 AuG 1 month
-46HCRAAYTRID7DBA39A49350G68141410230032~TRT=
 #----------------------------------#
 
 15 AUG 1 month
@@ -47,16 +44,7 @@ my s23 ultra mobile
 20 AUG 1 MONTH
 46HCRAA3EXF8SXXF527ABA06949682FREP09141410477774~TRT=
 #------------------------------#
-#-----------------
-
-26 AUG 15 DAY
-46HCRAA+FREP7229410476674~TRT=
-46HCRAAYTRID6B2404EA8050G68141410234432~TRT=
 #-------------------------------
-
-28 AUG 15 DAY
-46HCRAA38117411BA6D2231FBEFE6G91000921DIORDNA89101510260062~TRT=
-
 #-----------------------------#
 
 31 AUG 1.MONTH
@@ -95,3 +83,7 @@ Hello RAMZO- XD ! Please Approve My Token The Token is :
 7 SEP 1 MONTH
 46HCRAA+FREP75191410338833~TRT=
 
+
+#--------------------------#
+11 SEP 15 DAY
+46HCRAA38117411BA6D2231FBEFE6G91000921DIORDNA89101510240042~TRT=
